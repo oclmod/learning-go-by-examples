@@ -15,7 +15,7 @@ tasks:
         desc: Generate Go code
         cmds:
         - GOFLAGS=-mod=mod go generate github.com/oclmod/learning-go-by-examples/go-rest-api/internal github.com/oclmod/learning-go-by-examples/go-rest-api/pkg/swagger
-
+        
     swagger.validate:
         desc: Validate swagger
         cmds:

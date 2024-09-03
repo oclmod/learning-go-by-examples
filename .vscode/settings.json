@@ -4,5 +4,7 @@
         "GOARCH": "arm",
         "GOROOT": "C:\\Users\\Jesus\\AppData\\Local\\tinygo\\goroot-8aee2f1cbad11e0605c5cf12205eb0767dca5ffebee3e437cf020e2b8c0d241c",
         "GOFLAGS": "-tags=gameboyadvance,arm7tdmi,baremetal,linux,arm,tinygo,purego,osusergo,math_big_pure_go,gc.conservative,scheduler.none,serial.none"
-    }
+    },
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "editor.fontSize": 19,
 }
